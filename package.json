@@ -35,12 +35,12 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
-    "react": "^16.12.0",
-    "react-native": "^0.61.5"
+    "react": "18.0.0",
+    "react-native": "18.0.0"
   },
   "devDependencies": {
-    "react": "^16.8.3",
-    "react-native": "^0.61.5"
+    "react": "18.0.0",
+    "react-native": "18.0.0"
   },
   "bugs": {
     "url": "https://github.com/sekizlipenguen/react-native-scrolling-menu/issues"
