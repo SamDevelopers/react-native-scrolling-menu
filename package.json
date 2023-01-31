@@ -36,7 +36,7 @@
   "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "18.0.0",
-    "react-native": "18.0.0"
+    "react-native": "0.69.6"
   },
   "devDependencies": {
     "react": "18.0.0",
