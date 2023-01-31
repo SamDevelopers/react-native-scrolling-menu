@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "react": "18.0.0",
-    "react-native": "18.0.0"
+    "react-native": "0.69.6"
   },
   "bugs": {
     "url": "https://github.com/sekizlipenguen/react-native-scrolling-menu/issues"
