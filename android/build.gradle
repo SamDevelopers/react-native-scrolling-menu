@@ -102,7 +102,9 @@ def configureReactNativePom(def pom) {
         }
     }
 }
-
+configurations {
+  customConfig.extendsFrom implementation
+}
 afterEvaluate { project ->
     // some Gradle build hooks ref:
     // https://www.oreilly.com/library/view/gradle-beyond-the/9781449373801/ch03.html
